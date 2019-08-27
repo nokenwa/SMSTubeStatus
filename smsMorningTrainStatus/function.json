@@ -1,0 +1,17 @@
+{
+  "bindings": [
+    {
+      "name": "myTimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 0 8 * * *"
+    },
+    {
+      "type": "twilioSms",
+      "name": "message",
+      "from": "//REPLACE WITH YOUR TWILIO NUMBER",
+      "direction": "out",
+      "body": "Azure Functions Testing"
+    }
+  ]
+}
