@@ -4,4 +4,4 @@ There’s nothing worse than being stuck on the trains in London during rush hou
 Using Azure functions, Twilio SMS Output Bindings and the handy Transport for London (TFL) API I can get a daily warning about the status of the tube lines I use to get to work every day.
 
 ## Blog Post Link
-Here's a link to the blog post with a more in-depth walkthrough: 
+Here's a link to the blog post with a more in-depth walkthrough: https://www.twilio.com/blog/sending-sms-reminders-with-azure-functions-twilio-and-node
